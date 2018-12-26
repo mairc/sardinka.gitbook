@@ -23,5 +23,9 @@
 
 ## Инвентарь
 
-* [Untitled](inventar/untitled.md)
-
+* [Броня](inventory/armor.md)
+* [Ближний бой](inventory/melee.md)
+* [Револьверы](inventory/revolvers.md)
+* [Винтовки](inventory/rifles.md)
+* [Снаряжение](inventory/inventory.md)
+* [Другое](inventory/other.md)
