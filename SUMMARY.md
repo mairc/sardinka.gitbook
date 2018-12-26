@@ -2,7 +2,7 @@
 
 * [О проекте](README.md)
 
-## ООС
+## Вне персонажа
 
 * [Новоприбывшим или «что делать?»](ooc/newcomers.md)
 * [Правила создания персонажей](ooc/rules.md)
@@ -25,7 +25,7 @@
 * [Вечнолесье](nations/forest.md)
 * [Мир Высших Эльфов](nations/island.md)
 
-## Другое
+## Государства — другое
 
 * [Корпорации](nations-other/corporation.md)
 * [Валюты](nations-other/currency.md)
