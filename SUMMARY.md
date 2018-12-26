@@ -1,25 +1,55 @@
 # Table of contents
 
-* [Вики проекта Скользская Сардина](README.md)
+* [Вики — Скользская Сардина](README.md)
 
 ## ООС
 
-* [Untitled](oos/untitled.md)
+* [Новоприбывшим или «что делать?»](ooc/newcomers.md)
+* [Правила создания персонажей](ooc/rules.md)
+* [Синхронизатор ожидания](ooc/same-page.md)
+* [Правила TeamSpeak-cервера](ooc/ts-rules.md)
+* [Вопросы по персонажу](ooc/pc.md)
+* [О проекте](ooc/about.md)
+* [Социальный договор](ooc/contract.md)
+* [О нас](ooc/about-us.md)
+* [Полезные ссылки](ooc/links.md)
 
 ## Государства
 
-* [Конфедерация Вольных Городов](gosudarstva/confederation.md)
-* [Вторая Великая Империя Человечества](gosudarstva/untitled.md)
-* [Республика Бриеле](gosudarstva/respublika-briele.md)
-* [Веспиа́нов Фри́гольд](gosudarstva/vespianov-frigold.md)
-* [Финийский Султанат](gosudarstva/finiiskii-sultanat.md)
-* [Тинг Дворфов](gosudarstva/ting-dvorfov.md)
-* [Вечнолесье](gosudarstva/vechnolese.md)
-* [Мир Высших Эльфов](gosudarstva/mir-vysshikh-elfov.md)
+* [Конфедерация Вольных Городов](nations/confederation.md)
+* [Вторая Великая Империя Человечества](nations/empire.md)
+* [Республика Бриеле](nations/republic.md)
+* [Веспиа́нов Фри́гольд](nations/freehold.md)
+* [Финийский Султанат](nations/sultanate.md)
+* [Тинг Дворфов](nations/thing.md)
+* [Вечнолесье](nations/forest.md)
+* [Мир Высших Эльфов](nations/island.md)
 
-## Другое
+### Другое
 
-* [Untitled](drugoe/untitled.md)
+* [Корпорации](nations/other/corporation.md)
+* [Валюты](nations/other/currency.md)
+* [Звания и Статусы](nations/other/rank.md)
+
+## О мире
+
+* [Календарь](cosmology/calendar.md)
+* [Космология](cosmology/cosmos.md)
+* [Боги](cosmology/gods.md)
+* [Языки](cosmology/languages.md)
+* [Расы](cosmology/race.md)
+* [Таумантолония (магия)](cosmology/thaumatology.md)
+
+## Гильдия Скользкая Сардина
+
+* [Гильдия](other/guild.md)
+* [Учётная книга Гильдии](other/guildbook.md)
+
+## Газеты
+
+* [Газета №12](newspapers/newspaper-12.md)
+* [Газета №13](newspapers/newspaper-13.md)
+* [Газета №14](newspapers/newspaper-14.md)
 
 ## Инвентарь
 
