@@ -8,7 +8,7 @@
 
 ## Государства
 
-* [Конфедерация Вольных Городов](gosudarstva/konfederaciya-volnykh-gorodov.md)
+* [Конфедерация Вольных Городов](gosudarstva/confederation.md)
 * [Вторая Великая Империя Человечества](gosudarstva/untitled.md)
 * [Республика Бриеле](gosudarstva/respublika-briele.md)
 * [Веспиа́нов Фри́гольд](gosudarstva/vespianov-frigold.md)
