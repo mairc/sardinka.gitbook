@@ -4,52 +4,52 @@
 
 ## ООС
 
-* [Новоприбывшим или «что делать?»](oos/newcomers.md)
-* [Правила создания персонажей](oos/rules.md)
-* [Синхронизатор ожидания](oos/same-page.md)
-* [Правила TeamSpeak-cервера](oos/ts-rules.md)
-* [Вопросы по персонажу](oos/pc.md)
-* [О проекте](oos/o-proekte.md)
-* [Социальный договор](oos/contract.md)
-* [О нас](oos/about-us.md)
-* [Полезные ссылки](oos/links.md)
+* [Новоприбывшим или «что делать?»](ooc/newcomers.md)
+* [Правила создания персонажей](ooc/rules.md)
+* [Синхронизатор ожидания](ooc/same-page.md)
+* [Правила TeamSpeak-cервера](ooc/ts-rules.md)
+* [Вопросы по персонажу](ooc/pc.md)
+* [О проекте](ooc/o-proekte.md)
+* [Социальный договор](ooc/contract.md)
+* [О нас](ooc/about-us.md)
+* [Полезные ссылки](ooc/links.md)
 
 ## Государства
 
-* [Конфедерация Вольных Городов](gosudarstva/confederation.md)
-* [Вторая Великая Империя Человечества](gosudarstva/empire.md)
-* [Республика Бриеле](gosudarstva/republic.md)
-* [Веспиа́нов Фри́гольд](gosudarstva/freehold.md)
-* [Финийский Султанат](gosudarstva/sultanate.md)
-* [Тинг Дворфов](gosudarstva/thing.md)
-* [Вечнолесье](gosudarstva/forest.md)
-* [Мир Высших Эльфов](gosudarstva/island.md)
+* [Конфедерация Вольных Городов](nations/confederation.md)
+* [Вторая Великая Империя Человечества](nations/empire.md)
+* [Республика Бриеле](nations/republic.md)
+* [Веспиа́нов Фри́гольд](nations/freehold.md)
+* [Финийский Султанат](nations/sultanate.md)
+* [Тинг Дворфов](nations/thing.md)
+* [Вечнолесье](nations/forest.md)
+* [Мир Высших Эльфов](nations/island.md)
 
 ## Другое
 
-* [Корпорации](drugoe/corporation.md)
-* [Валюты](drugoe/currency.md)
-* [Звания и Статусы](drugoe/rank.md)
+* [Корпорации](nations-other/corporation.md)
+* [Валюты](nations-other/currency.md)
+* [Звания и Статусы](nations-other/rank.md)
 
 ## О мире
 
-* [Календарь](o-mire/calendar.md)
-* [Космология](o-mire/cosmos.md)
-* [Боги](o-mire/gods.md)
-* [Языки](o-mire/languages.md)
-* [Расы](o-mire/race.md)
-* [Таумантология \(магия\)](o-mire/thaumatology.md)
+* [Календарь](cosmology/calendar.md)
+* [Космология](cosmology/cosmos.md)
+* [Боги](cosmology/gods.md)
+* [Языки](cosmology/languages.md)
+* [Расы](cosmology/race.md)
+* [Таумантология \(магия\)](cosmology/thaumatology.md)
 
 ## Гильдия Скользкая Сардина
 
-* [Гильдия](gildiya-skolzkaya-sardina/guild.md)
-* [Учётная книга Гильдии](gildiya-skolzkaya-sardina/guildbook.md)
+* [Гильдия](guild/guild.md)
+* [Учётная книга Гильдии](guild/guildbook.md)
 
 ## Газеты
 
-* [Газета №12](gazety/newspaper-12.md)
-* [Газета №13](gazety/newspaper-13.md)
-* [Газета №14](gazety/newspaper-14.md)
+* [Газета №12](newspapers/newspaper-12.md)
+* [Газета №13](newspapers/newspaper-13.md)
+* [Газета №14](newspapers/newspaper-14.md)
 
 ## Инвентарь
 
