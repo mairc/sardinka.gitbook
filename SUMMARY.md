@@ -38,7 +38,7 @@
 * [Боги](o-mire/gods.md)
 * [Языки](o-mire/languages.md)
 * [Расы](o-mire/race.md)
-* [Таумантолония \(магия\)](o-mire/thaumatology.md)
+* [Таумантология \(магия\)](o-mire/thaumatology.md)
 
 ## Гильдия Скользкая Сардина
 
